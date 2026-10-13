@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "announcement": {
+    "enabled": true,
+    "title": "欢迎使用北宸工具箱",
+    "text": "",
+    "changelog": [
+      "音乐页优化，新增 10 首歌曲",
+      "AI 助手支持 6 种人格切换",
+      "新增彩蛋：下雪了好想你",
+      "修复了部分机型备份失败的问题"
+    ]
+  },
+  "switches": {
+    "easter_egg": true,
+    "pet_show": true
+  }
+}
