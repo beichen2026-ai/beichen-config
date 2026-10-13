@@ -3,9 +3,9 @@
   "version": 1,
   "appUpdate": {
     "enabled": true,
-    "versionCode": 3,
-    "versionName": "2.6",
-    "downloadUrl": "https://github.com/beichen2026-ai/beichen-config/releases/download/v2.6/app-release.apk",
+    "versionCode": 4,
+    "versionName": "2.5.7",
+    "downloadUrl": "https://github.com/beichen2026-ai/beichen-config/releases/download/v2.5.7/base.apk",
     "updateLog": "1. 音乐页优化\n2. AI 助手支持 6 种人格\n3. 新增云控功能",
     "forceUpdate": false
   },
